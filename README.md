@@ -1,5 +1,5 @@
-# kalkulator sederhana menggunakan python
+# simply calculator using python
 
-Ini adalah proyek pertama saya dalam belajar Python. 
+that`s my first project using my python
 
-Kalkulator ini bisa melakukan penjumlahan, pengurangan, perkalian, dan pembagian.
+this calculator can doing addition, subtraction, and multiplication
